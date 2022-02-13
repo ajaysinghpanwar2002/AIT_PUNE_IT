@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:layout_height="match_parent"
+    tools:context=".tandcpage3">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:padding="10dp"
+        android:paddingTop="4dp"
+        app:cardElevation="50dp"
+        app:cardCornerRadius="50dp">
+
+        <LinearLayout
+            android:background="#3784C1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:background="#fff"
+                android:src="@drawable/nsitlogo"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Netaji Subhas Institute of Technology"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/text_product7_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_linkProductDescreption_NSIT"
+                android:textAlignment="center"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="14dp"
+                android:textColor="@color/black"/>
+
+            <Button
+                android:id="@+id/btn_8"
+                android:layout_width="wrap_content"
+                android:layout_height="12dp"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#fff"
+                android:background="@color/black"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="10dp"
+                android:text="CHAT NOW " />
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="12dp"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:padding="10dp"
+        app:cardElevation="50dp"
+        app:cardCornerRadius="50dp">
+
+        <LinearLayout
+            android:background="#CDDC39"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:background="#fff"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/delhi_official_logo_new" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Delhi Technological University"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/text_product8_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_linkProductDescreption_DTU"
+                android:textAlignment="center"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="14dp"
+                android:textColor="@color/black"/>
+
+            <Button
+                android:id="@+id/btn_9"
+                android:layout_width="wrap_content"
+                android:layout_height="12dp"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#fff"
+                android:background="@color/black"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="10dp"
+                android:text="CHAT NOW " />
+
+
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:padding="10dp"
+        app:cardElevation="50dp"
+        app:cardCornerRadius="50dp"
+        android:layout_marginTop="12dp">
+
+        <LinearLayout
+            android:background="#EF4E85"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:background="#fff"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/thaparengrcollegelogo"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thapar Institute of Engineering and Technology "
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="15dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/text_product9_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_linkProductDescreption_THAPAR"
+                android:textAlignment="center"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="14dp"
+                android:textColor="@color/black"/>
+
+            <Button
+                android:id="@+id/btn_10"
+                android:layout_width="wrap_content"
+                android:layout_height="12dp"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#fff"
+                android:background="@color/black"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:textSize="10dp"
+                android:text="CHAT NOW " />
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/btn_forward_2"
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="150dp"
+        android:background="@android:drawable/ic_media_ff"
+        android:backgroundTint="@color/black" />
+
+
+
+</LinearLayout>

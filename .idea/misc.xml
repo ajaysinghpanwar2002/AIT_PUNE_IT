@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/drawable/btn_background.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/drawable/btn_background_1.xml" value="0.151" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/drawable/edt_backround.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/drawable/message_box_background.xml" value="0.1495" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_first_interface.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_formfor_tandpcell.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_splash_screen_saarthi.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_tandcpage1.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_tandcpage2.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/activity_tandcpage3.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/receive.xml" value="0.5429184549356223" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/recieve.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/sent.xml" value="0.25" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/layout/user_layout.xml" value="0.1" />
+        <entry key="..\:/Users/jhumm/AndroidStudioProjects/placementcell/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

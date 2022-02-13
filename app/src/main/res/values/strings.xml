@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Saarthi</string>
+    <string name="recuirets">Contact Recruiters</string>
+    <string name="tandpcellinfo">
+        Training and placement cell info
+        \n<ul><li><a href="https://forms.gle/xhndiLpdsXgB1yeG8">click here >>
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_AIT">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1TX6qoHS8zsN0t2W69vtAvVaqoVz3-hKxhRvkOfss85Y/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_BITS">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1I59JEWnLyYxaKHkY0-AMIVjUmDY1yjLShNUXjQB0fFM/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_MANITBHOPAL">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/13Frv6faaE_Pr-PCo7gsPiaIsnk4z9HcnYAmpijAIKdw/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_VITVELLORE">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1xs23LBsSlPcULupV0xUjIcPDzn5-JI4Hh0EVFeBlgoQ/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_MIT">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1u-cOiyH9mVumGwSA0q2aHIq8uYfQoTwE2uvUpfGIJLY/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_IITbombay">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1odU6NWJxw-XxIdp9yIXilrguMfMWHRF-e4NNJv-3SCk/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_NSIT">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1difozt3KNO9K1X2CtKdJ5CCc68Sw2a_CVjn9ykQ4Mi0/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_DTU">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1y3dDLAQdmXf9m8ovjNmUNahz_PhtRUaPfR1SqlU7Khc/edit?usp=sharing">View Details
+        </a></li></ul>
+    </string>
+    <string name="text_linkProductDescreption_THAPAR">
+        \n<ul><li><a href="https://docs.google.com/presentation/d/1yW-d97QrhJyKIAnxRU6viPeLsh6Bi_lwFPJ_Rlajdm8/edit?usp=sharing">View Details
+        </a></li></ul>
+
+    </string>
+</resources>
